@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raviprasad Elamaran</h1>
-<h3 align="center">A passionate developer based in Chennai, India</h3>
+<h1 align="left">Hi 👋, I'm Raviprasad Elamaran</h1>
+<h3 align="left">A passionate developer based in Chennai, India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **raviprasad2098@gmail.com**
